@@ -1,0 +1,30 @@
+body {
+	font-family: Microsoft Yahei,"微软雅黑";
+	margin: 0;
+	padding: 0;
+	background: white;
+}
+
+.layout_head {
+	top: 0px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 0;
+	height: auto;
+	width: 100%;
+}
+
+.layout_containers {
+	top: 0px;
+	height: 80%;
+	width: 100%;
+	text-align: center
+}
+
+.layout_foot {
+	height: 10%;
+	width: 100%;
+	color: #3a87ad;
+	background-color: #d9edf7;
+	border-color: #bce8f1;
+}

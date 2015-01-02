@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Monkey>
+	<ServerConfig>
+		<property name="port" value="8080"></property>
+		<property name="protocol" value="HTTP/1.1"></property>
+		<property name="address" value="127.0.0.1"></property>
+		<property name="backlog" value="5"></property>
+	</ServerConfig>
+
+
+	<Log>
+		<property name="isLog" value="true"></property>
+
+	</Log>
+
+</Monkey>

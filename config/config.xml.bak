@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Monkey>
+	<Config>
+			<property name="port" value="8080"></property>
+			
+			<property name="protocol" value="HTTP/1.1"></property>
+	</Config>
+	
+	
+	<Log>
+		
+		
+	</Log>
+
+
+
+
+</Monkey>

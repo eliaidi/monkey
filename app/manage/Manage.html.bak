@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome To Manage HTML Server</title>
+
+<meta http-equiv="keywords" content="keyword1,keyword2,keyword3">
+<meta http-equiv="description" content="this is my page">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" type="text/css" href="manage/bs/css/bootstrap.css">
+<script type="text/javascript" src="manage/js/jquery.1.9.1.min.js"></script>
+<script type="text/javascript" src="manage/bs/js/bootstrap.js"></script>
+</head>
+
+<body>
+	<div class="alert alert-info">
+		<blockquote>
+			<h1>
+				Welcome To Manage HTML Server.
+			</h1>
+			<small> 
+				Author <city title="Liao chente">廖陈特</city>
+			</small>
+		</blockquote>
+	</div>
+	
+	<div class="container">
+		<div class="hero-unit">
+			<h1>We consider ourselves</h1>
+			<p>not simply a group of projects sharing a server, but rather a community of developers and users.</p>
+			<p>
+				<a class="btn btn-primary btn-large btn-info"> 敬请期待  </a>
+			</p>
+		</div>
+	</div>
+</body>
+</html>
